@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
@@ -162,8 +161,8 @@
 
     <section>
         <h2>Contact</h2>
-        <p>Email: your-email@example.com</p>
-        <p>Phone: 01XXXXXXXXX</p>
+        <p>Email: meghnahid@gmail.com</p>
+        <p>Phone: 01609597666</p>
         <p>Location: Bangladesh</p>
     </section>
 
