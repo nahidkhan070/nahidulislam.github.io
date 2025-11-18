@@ -138,6 +138,8 @@
             <span>Google Sheets</span>
             <span>MIS Reporting</span>
             <span>SQL</span>
+            <span>ERP</span>
+            <span>Power Point</span>
         </div>
     </section>
 
